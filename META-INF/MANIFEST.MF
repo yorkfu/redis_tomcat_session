@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: tomcat-juli.jar jedis-2.0.0.jar commons-pool-1.6.jar servl
+ et-api.jar catalina.jar
+Main-Class: 
+
